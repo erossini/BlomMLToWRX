@@ -17,6 +17,8 @@ Options available with the tool.
   * SourceImageUrl
   * DestinationImageUrl
 
+### Usage
+
 You simply run the tool with the following command
 
 ```
