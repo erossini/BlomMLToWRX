@@ -4,7 +4,7 @@ The tool can be used if you need to convert BlogML (for example export from Blog
 
 The code in this repository has error handling/logging enhancements and fixed import of multiple comments.
 
-For detailed description see the blog post [""](http://puresourcecode.com/)
+For detailed description see the blog post ["Generate WRX from BlogML"](https://www.puresourcecode.com/dotnet/generate-wrx-from-blogml/)
 
 ### Parameters
 
