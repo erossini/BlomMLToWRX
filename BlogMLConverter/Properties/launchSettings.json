@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlogMLConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "/Action:ExportToWRX /BlogMLFile:C:\\Projects\\WRX\\OriginalML\\BlogMLJavaScript.xml /WRXFile:C:\\Projects\\WRX\\OriginalML\\BlogMLJavaScript_WRX.xml /SourceImageUrl:http://puresourcecode.com/javascript/image.axd?picture= /DestinationImageUrl:https://www.puresourcecode.com/myimg/javascript/ /SourceUrl:http://puresourcecode.com /TargetUrl:https://www.puresourcecode.com"
+    }
+  }
+}

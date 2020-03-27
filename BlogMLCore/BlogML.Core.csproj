@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>BlogML.Core</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Enrico Rossini</Authors>
+    <Description>BlogML.Core is an update of the BlogML .NET project for.NET Standard 2.0. BlogML is an open format derived from XML to store and restore the content of a blog.</Description>
+    <PackageLicenseUrl>https://github.com/hmobius/BlogML.Core/blob/master/LICENSE</PackageLicenseUrl>
+    <ProjectUrl>https://github.com/hmobius/BlogML.Core</ProjectUrl>
+    <RequireLicenseAcceptance>false</RequireLicenseAcceptance>
+    <PackageTags>blog;import;export;blogml</PackageTags>
+    <Language>en-us</Language>
+    <Title>BlogML.Core</Title>
+    <Company>Enrico Rossini</Company>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Remove="lib\blogml.xsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="lib\blogml.xsd" />
+  </ItemGroup>
+</Project>
