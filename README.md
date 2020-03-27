@@ -19,6 +19,7 @@ Options available with the tool.
 
 You simply run the tool with the following command
 
+```
 BlogMLMLCore.exe 
     /Action:ExportToWRX 
     /BlogMLFile:BlogML.xml 
@@ -26,3 +27,4 @@ BlogMLMLCore.exe
     /TargetUrl:https://www.puresourcecode.com 
     /SourceImageUrl:http://puresourcecode.com/javascript/image.axd?picture=
     /DestinationImageUrl:https://www.puresourcecode.com/myimg/javascript/
+```
