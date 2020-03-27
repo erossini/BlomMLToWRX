@@ -1,4 +1,4 @@
-# BlomML To WRX
+# BlogML To WRX
 
 The tool can be used if you need to convert BlogML (for example export from Blogengine.net) format into WRX file (WordPress Extended RSS import file format) for subsequent import it into WordPress.
 
